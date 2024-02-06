@@ -1,0 +1,23 @@
+﻿  ConsoleApplication3.cpp
+C:\Users\пк\source\repos\ConsoleApplication3\VecFunctions.h(16,66): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\пк\source\repos\ConsoleApplication3\VecFunctions.h(16,55): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\пк\source\repos\ConsoleApplication3\VecFunctions.h(16,44): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\пк\source\repos\ConsoleApplication3\VecFunctions.h(17,93): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\пк\source\repos\ConsoleApplication3\VecFunctions.h(17,74): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\пк\source\repos\ConsoleApplication3\VecFunctions.h(17,55): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\пк\source\repos\ConsoleApplication3\VecFunctions.h(23,28): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\пк\source\repos\ConsoleApplication3\VecFunctions.h(24,28): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\пк\source\repos\ConsoleApplication3\VecFunctions.h(31,28): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\пк\source\repos\ConsoleApplication3\VecFunctions.h(32,28): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\пк\source\repos\ConsoleApplication3\VecFunctions.h(39,28): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\пк\source\repos\ConsoleApplication3\VecFunctions.h(40,28): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\пк\source\repos\ConsoleApplication3\ConsoleApplication3.cpp(41,23): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\пк\source\repos\ConsoleApplication3\ConsoleApplication3.cpp(41,20): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\пк\source\repos\ConsoleApplication3\ConsoleApplication3.cpp(41,40): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\пк\source\repos\ConsoleApplication3\ConsoleApplication3.cpp(41,33): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\пк\source\repos\ConsoleApplication3\ConsoleApplication3.cpp(73,51): warning C4244: *=: преобразование "double" в "float", возможна потеря данных
+C:\Users\пк\source\repos\ConsoleApplication3\ConsoleApplication3.cpp(74,29): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\пк\source\repos\ConsoleApplication3\ConsoleApplication3.cpp(80,29): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\пк\source\repos\ConsoleApplication3\ConsoleApplication3.cpp(80,19): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\пк\source\repos\ConsoleApplication3\ConsoleApplication3.cpp(80,18): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+  ConsoleApplication3.vcxproj -> C:\Users\пк\source\repos\ConsoleApplication3\Debug\ConsoleApplication3.exe
