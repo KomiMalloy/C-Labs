@@ -1,0 +1,189 @@
+﻿  LabAr.cpp
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(204,25): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(208,25): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(219,29): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(230,29): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(244,25): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(428,33): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(432,33): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(436,33): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(443,37): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(454,37): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(468,33): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(618,37): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(622,37): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(626,37): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(633,41): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(644,41): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(658,37): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(677,51): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(684,51): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(695,37): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(699,37): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(703,37): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(710,41): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(721,41): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(735,37): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(759,43): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(766,43): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(790,47): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(802,33): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(806,33): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(810,33): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(817,37): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(828,37): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(845,33): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(868,47): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(892,47): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(1003,37): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(1007,37): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(1011,37): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(1018,41): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(1029,41): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(1043,37): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(1064,51): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(1071,51): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(1082,37): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(1086,37): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(1090,37): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(1097,41): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(1108,41): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(1122,37): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(1305,33): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(1309,33): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(1313,33): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(1320,37): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(1331,37): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(1345,33): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(1492,37): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(1496,37): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(1500,37): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(1507,41): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(1518,41): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(1532,37): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(1552,51): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(1559,51): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(1571,37): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(1575,37): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(1579,37): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(1586,41): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(1597,41): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(1611,37): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(1633,43): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(1640,43): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(1664,33): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(1668,33): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(1672,33): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(1679,37): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(1690,37): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(1704,33): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(1853,37): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(1857,37): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(1861,37): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(1868,41): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(1879,41): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(1893,37): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(1914,51): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(1921,51): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(1933,37): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(1937,37): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(1941,37): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(1948,41): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(1959,41): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(1973,37): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(1997,35): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(2004,35): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(2037,25): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(2041,25): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(2045,25): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(2052,29): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(2063,29): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(2077,25): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(2263,33): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(2267,33): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(2271,33): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(2278,37): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(2289,37): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(2303,33): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(2452,37): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(2456,37): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(2460,37): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(2467,41): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(2478,41): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(2492,37): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(2512,51): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(2519,51): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(2530,37): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(2534,37): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(2538,37): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(2545,41): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(2556,41): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(2570,37): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(2592,43): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(2599,43): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(2623,47): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(2635,33): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(2639,33): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(2643,33): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(2650,37): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(2661,37): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(2675,33): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(2698,47): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(2836,37): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(2840,37): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(2844,37): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(2851,41): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(2862,41): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(2876,37): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(2897,51): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(2904,51): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(2915,37): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(2919,37): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(2923,37): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(2930,41): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(2941,41): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(2955,37): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(3144,33): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(3148,33): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(3152,33): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(3159,37): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(3170,37): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(3184,33): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(3335,37): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(3339,37): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(3343,37): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(3350,41): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(3361,41): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(3375,37): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(3395,51): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(3402,51): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(3414,37): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(3418,37): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(3422,37): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(3429,41): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(3440,41): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(3454,37): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(3477,39): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(3501,33): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(3505,33): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(3509,33): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(3516,37): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(3527,37): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(3541,33): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(3692,37): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(3696,37): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(3700,37): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(3707,41): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(3718,41): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(3732,37): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(3752,51): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(3759,51): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(3771,37): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(3775,37): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(3779,37): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(3786,41): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(3797,41): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(3811,37): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(8,178): warning C4101: str1: неиспользованная локальная переменная
+C:\Users\пк\source\repos\LabAr\LabAr\LabAr.cpp(8,162): warning C4101: str2: неиспользованная локальная переменная
+  LabAr.vcxproj -> C:\Users\пк\source\repos\LabAr\Debug\LabAr.exe

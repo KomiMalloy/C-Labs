@@ -1,0 +1,5 @@
+﻿  Grad_theif_code_server.cpp
+C:\Users\пк\source\repos\Grad_theif_code_server\Grad_theif_code_server\Grad_theif_code_server.cpp(130,27): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\пк\source\repos\Grad_theif_code_server\Grad_theif_code_server\Grad_theif_code_server.cpp(130,27): warning C4552: "<=": результат выражения не используется
+C:\Users\пк\source\repos\Grad_theif_code_server\Grad_theif_code_server\Grad_theif_code_server.cpp(137,7): warning C4551: в вызове функции отсутствует список аргументов
+  Grad_theif_code_server.vcxproj -> C:\Users\пк\source\repos\Grad_theif_code_server\Debug\Grad_theif_code_server.exe
