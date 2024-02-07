@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\пк\source\repos\Laboratornya4\Laboratornya4\Source.cpp(6,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\пк\source\repos\Laboratornya4\Laboratornya4\Source.cpp(85,14): warning C4309: =: усечение константного значения
+C:\Users\пк\source\repos\Laboratornya4\Laboratornya4\Source.cpp(138,6): warning C4101: bord: неиспользованная локальная переменная
+C:\Users\пк\source\repos\Laboratornya4\Laboratornya4\Source.cpp(197,6): warning C4101: jn: неиспользованная локальная переменная
+C:\Users\пк\source\repos\Laboratornya4\Laboratornya4\Source.cpp(197,17): warning C4101: j: неиспользованная локальная переменная
+C:\Users\пк\source\repos\Laboratornya4\Laboratornya4\Source.cpp(197,14): warning C4101: h: неиспользованная локальная переменная
+C:\Users\пк\source\repos\Laboratornya4\Laboratornya4\Source.cpp(197,10): warning C4101: jm: неиспользованная локальная переменная
+  Laboratornya4.vcxproj -> C:\Users\пк\source\repos\Laboratornya4\Debug\Laboratornya4.exe

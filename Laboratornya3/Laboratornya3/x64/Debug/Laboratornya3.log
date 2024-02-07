@@ -1,0 +1,15 @@
+﻿  Laboratornya3.cpp
+C:\Users\пк\source\repos\Laboratornya3\Laboratornya3\Laboratornya3.cpp(64,10): warning C4473: "printf": передано недостаточно аргументов для строки формата
+C:\Users\пк\source\repos\Laboratornya3\Laboratornya3\Laboratornya3.cpp(64,10): message : заполнители и их параметры ожидают переменное число аргументов в количестве 1, но было предоставлено 0
+C:\Users\пк\source\repos\Laboratornya3\Laboratornya3\Laboratornya3.cpp(64,10): message : отсутствующий вариативный аргумент "1" требуется для строки форматирования "%d"
+C:\Users\пк\source\repos\Laboratornya3\Laboratornya3\Laboratornya3.cpp(68,10): warning C4473: "printf": передано недостаточно аргументов для строки формата
+C:\Users\пк\source\repos\Laboratornya3\Laboratornya3\Laboratornya3.cpp(68,10): message : заполнители и их параметры ожидают переменное число аргументов в количестве 1, но было предоставлено 0
+C:\Users\пк\source\repos\Laboratornya3\Laboratornya3\Laboratornya3.cpp(68,10): message : отсутствующий вариативный аргумент "1" требуется для строки форматирования "%d"
+C:\Users\пк\source\repos\Laboratornya3\Laboratornya3\Laboratornya3.cpp(209,14): warning C4309: =: усечение константного значения
+C:\Users\пк\source\repos\Laboratornya3\Laboratornya3\Laboratornya3.cpp(212,13): warning C4309: =: усечение константного значения
+C:\Users\пк\source\repos\Laboratornya3\Laboratornya3\Laboratornya3.cpp(290,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\пк\source\repos\Laboratornya3\Laboratornya3\Laboratornya3.cpp(510,6): warning C4101: bord: неиспользованная локальная переменная
+C:\Users\пк\source\repos\Laboratornya3\Laboratornya3\Laboratornya3.cpp(565,6): warning C4101: jn: неиспользованная локальная переменная
+C:\Users\пк\source\repos\Laboratornya3\Laboratornya3\Laboratornya3.cpp(565,14): warning C4101: j: неиспользованная локальная переменная
+C:\Users\пк\source\repos\Laboratornya3\Laboratornya3\Laboratornya3.cpp(565,9): warning C4101: jm: неиспользованная локальная переменная
+  Laboratornya3.vcxproj -> C:\Users\пк\source\repos\Laboratornya3\x64\Debug\Laboratornya3.exe
