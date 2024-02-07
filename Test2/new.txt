@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf - 8"?>
+<root>
+   <student1>Ivanov Ivan
+       <action1>
+           <time>0</time>
+           <button>some button</button>
+           <value>some value</value>
+       </action1>
+       <action2>
+           <time>0</time>
+           <button>some button</button>
+           <value>some value</value>
+       </action2>
+       <action3>
+           <time>0</time>
+           <button>some button</button>
+           <value>some value</value>
+       </action3>
+   </student1>
+   <student2>Ivanov Ivan
+       <action1>
+           <time>0</time>
+           <button>some button</button>
+           <value>some value</value>
+       </action1>
+       <action2>
+           <time>0</time>
+           <button>some button</button>
+           <value>some value</value>
+       </action2>
+       <action3>
+           <time>0</time>
+           <button>some button</button>
+           <value>some value</value>
+       </action3>
+   </student2>
+   <student3>Ivanov Ivan
+       <action1>
+           <time>0</time>
+           <button>some button</button>
+           <value>some value</value>
+       </action1>
+       <action2>
+           <time>0</time>
+           <button>some button</button>
+           <value>some value</value>
+       </action2>
+       <action3>
+           <time>0</time>
+           <button>some button</button>
+           <value>some value</value>
+       </action3>
+   </student3>
+   <student4>Ivanov Ivan
+       <action1>
+           <time>0</time>
+           <button>some button</button>
+           <value>some value</value>
+       </action1>
+       <action2>
+           <time>0</time>
+           <button>some button</button>
+           <value>some value</value>
+       </action2>
+       <action3>
+           <time>0</time>
+           <button>some button</button>
+           <value>some value</value>
+       </action3>
+   </student4>
+</root>
