@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\пк\source\repos\Laboratornya 3s2\Laboratornya 3s2\Source.cpp(380,8): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\пк\source\repos\Laboratornya 3s2\Laboratornya 3s2\Source.cpp(441,14): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\пк\source\repos\Laboratornya 3s2\Laboratornya 3s2\Source.cpp(442,14): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\пк\source\repos\Laboratornya 3s2\Laboratornya 3s2\Source.cpp(762,15): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\пк\source\repos\Laboratornya 3s2\Laboratornya 3s2\Source.cpp(746,10): warning C4101: result: неиспользованная локальная переменная
+  Laboratornya 3s2.vcxproj -> C:\Users\пк\source\repos\Laboratornya 3s2\Debug\Laboratornya 3s2.exe
