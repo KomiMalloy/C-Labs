@@ -1,0 +1,13 @@
+﻿"Laboratornaya1s2.exe" (Win32). Загружено "C:\Users\пк\source\repos\Laboratornaya1s2\Debug\Laboratornaya1s2.exe". Символы загружены.
+"Laboratornaya1s2.exe" (Win32). Загружено "C:\Windows\SysWOW64\ntdll.dll". 
+"Laboratornaya1s2.exe" (Win32). Загружено "C:\Windows\SysWOW64\kernel32.dll". 
+"Laboratornaya1s2.exe" (Win32). Загружено "C:\Windows\SysWOW64\KernelBase.dll". 
+"Laboratornaya1s2.exe" (Win32). Загружено "C:\Windows\SysWOW64\vcruntime140d.dll". 
+"Laboratornaya1s2.exe" (Win32). Загружено "C:\Windows\SysWOW64\ucrtbased.dll". 
+Поток 0x68b8 завершился с кодом 0 (0x0).
+"Laboratornaya1s2.exe" (Win32). Загружено "C:\Windows\SysWOW64\sechost.dll". 
+"Laboratornaya1s2.exe" (Win32). Загружено "C:\Windows\SysWOW64\rpcrt4.dll". 
+Поток 0x5a20 завершился с кодом -1073741510 (0xc000013a).
+Поток 0x6540 завершился с кодом -1073741510 (0xc000013a).
+Поток 0x5388 завершился с кодом -1073741510 (0xc000013a).
+Программа "[26164] Laboratornaya1s2.exe" завершилась с кодом -1073741510 (0xc000013a).

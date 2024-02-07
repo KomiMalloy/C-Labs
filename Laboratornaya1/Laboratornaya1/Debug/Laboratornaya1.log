@@ -1,0 +1,28 @@
+﻿  Source.cpp
+C:\Users\пк\source\repos\Laboratornaya1\Laboratornaya1\Source.cpp(17,47): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "__int64"
+C:\Users\пк\source\repos\Laboratornaya1\Laboratornaya1\Source.cpp(17,47): message : рекомендуется использовать "%lld" в строке форматирования
+C:\Users\пк\source\repos\Laboratornaya1\Laboratornaya1\Source.cpp(17,47): message : рекомендуется использовать "%I64d" в строке форматирования
+C:\Users\пк\source\repos\Laboratornaya1\Laboratornaya1\Source.cpp(33,47): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "__int64"
+C:\Users\пк\source\repos\Laboratornaya1\Laboratornaya1\Source.cpp(33,47): message : рекомендуется использовать "%lld" в строке форматирования
+C:\Users\пк\source\repos\Laboratornaya1\Laboratornaya1\Source.cpp(33,47): message : рекомендуется использовать "%I64d" в строке форматирования
+C:\Users\пк\source\repos\Laboratornaya1\Laboratornaya1\Source.cpp(51,47): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "__int64"
+C:\Users\пк\source\repos\Laboratornaya1\Laboratornaya1\Source.cpp(51,47): message : рекомендуется использовать "%lld" в строке форматирования
+C:\Users\пк\source\repos\Laboratornaya1\Laboratornaya1\Source.cpp(51,47): message : рекомендуется использовать "%I64d" в строке форматирования
+C:\Users\пк\source\repos\Laboratornaya1\Laboratornaya1\Source.cpp(71,10): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "__int64"
+C:\Users\пк\source\repos\Laboratornaya1\Laboratornaya1\Source.cpp(71,10): message : рекомендуется использовать "%lld" в строке форматирования
+C:\Users\пк\source\repos\Laboratornaya1\Laboratornaya1\Source.cpp(71,10): message : рекомендуется использовать "%I64d" в строке форматирования
+C:\Users\пк\source\repos\Laboratornaya1\Laboratornaya1\Source.cpp(90,88): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "__int64"
+C:\Users\пк\source\repos\Laboratornaya1\Laboratornaya1\Source.cpp(90,88): message : рекомендуется использовать "%lld" в строке форматирования
+C:\Users\пк\source\repos\Laboratornaya1\Laboratornaya1\Source.cpp(90,88): message : рекомендуется использовать "%I64d" в строке форматирования
+C:\Users\пк\source\repos\Laboratornaya1\Laboratornaya1\Source.cpp(104,28): warning C4244: инициализация: преобразование "double" в "__int64", возможна потеря данных
+C:\Users\пк\source\repos\Laboratornaya1\Laboratornaya1\Source.cpp(105,68): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "__int64"
+C:\Users\пк\source\repos\Laboratornaya1\Laboratornaya1\Source.cpp(105,68): message : рекомендуется использовать "%lld" в строке форматирования
+C:\Users\пк\source\repos\Laboratornaya1\Laboratornaya1\Source.cpp(105,68): message : рекомендуется использовать "%I64d" в строке форматирования
+C:\Users\пк\source\repos\Laboratornaya1\Laboratornaya1\Source.cpp(130,46): warning C4477: "printf": в строке форматирования "% d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "__int64"
+C:\Users\пк\source\repos\Laboratornaya1\Laboratornaya1\Source.cpp(130,46): message : рекомендуется использовать "%lld" в строке форматирования
+C:\Users\пк\source\repos\Laboratornaya1\Laboratornaya1\Source.cpp(130,46): message : рекомендуется использовать "%I64d" в строке форматирования
+C:\Users\пк\source\repos\Laboratornaya1\Laboratornaya1\Source.cpp(133,71): warning C4477: "printf": в строке форматирования "% d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "__int64"
+C:\Users\пк\source\repos\Laboratornaya1\Laboratornaya1\Source.cpp(133,71): message : рекомендуется использовать "%lld" в строке форматирования
+C:\Users\пк\source\repos\Laboratornaya1\Laboratornaya1\Source.cpp(133,71): message : рекомендуется использовать "%I64d" в строке форматирования
+C:\Users\пк\source\repos\Laboratornaya1\Laboratornaya1\Source.cpp(177,12): warning C4244: =: преобразование "time_t" в "double", возможна потеря данных
+  Laboratornaya1.vcxproj -> C:\Users\пк\source\repos\Laboratornaya1\Debug\Laboratornaya1.exe

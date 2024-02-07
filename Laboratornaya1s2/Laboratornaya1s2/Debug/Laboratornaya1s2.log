@@ -1,0 +1,11 @@
+﻿  Source.cpp
+C:\Users\пк\source\repos\Laboratornaya1s2\Laboratornaya1s2\Source.cpp(49,20): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\пк\source\repos\Laboratornaya1s2\Laboratornaya1s2\Source.cpp(73,15): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\пк\source\repos\Laboratornaya1s2\Laboratornaya1s2\Source.cpp(187,19): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\пк\source\repos\Laboratornaya1s2\Laboratornaya1s2\Source.cpp(232,18): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\пк\source\repos\Laboratornaya1s2\Laboratornaya1s2\Source.cpp(248,17): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\пк\source\repos\Laboratornaya1s2\Laboratornaya1s2\Source.cpp(255,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\пк\source\repos\Laboratornaya1s2\Laboratornaya1s2\Source.cpp(270,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\пк\source\repos\Laboratornaya1s2\Laboratornaya1s2\Source.cpp(304,18): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\пк\source\repos\Laboratornaya1s2\Laboratornaya1s2\Source.cpp(117): warning C4715: new_list: значение возвращается не при всех путях выполнения
+  Laboratornaya1s2.vcxproj -> C:\Users\пк\source\repos\Laboratornaya1s2\Debug\Laboratornaya1s2.exe
